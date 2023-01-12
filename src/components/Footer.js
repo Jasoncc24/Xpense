@@ -6,7 +6,7 @@ import Copyright from "../components/Copyright";
 
 const Footer = () => {
   // destructure footer data
-  const { logo, links, legal, newsletter, form } = footer;
+  const { logo, links, newsletter, form } = footer;
   return (
     <footer className="pt-[142px] pb-[60px]">
       <div className="container mx-auto">

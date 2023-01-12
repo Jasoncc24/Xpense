@@ -113,19 +113,16 @@ export const product = {
       icon: CardIconImg1,
       title: "Cross platform",
       subtitle: "available for IOS, Android, Windows, and MAC",
-      delay: 200,
     },
     {
       icon: CardIconImg2,
       title: "Cloud server",
       subtitle: "Unlimited storage space; upload as much data as you want",
-      delay: 400,
     },
     {
       icon: CardIconImg3,
       title: "Secure",
       subtitle: "5 levels of security including SSL encryption.",
-      delay: 600,
     },
   ],
 };
@@ -238,12 +235,6 @@ export const footer = {
     { name: "Pricing", href: "/" },
     { name: "Features", href: "/" },
     { name: "Blog", href: "/" },
-  ],
-  legal: [
-    { name: "Terms of use", href: "/" },
-    { name: "Terms of conditions", href: "/" },
-    { name: "Privacy policy", href: "/" },
-    { name: "Cookie policy", href: "/" },
   ],
   newsletter: {
     title: "Newsletter",
